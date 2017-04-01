@@ -38,7 +38,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "bitcore-lib": "git@github.com:timwhite47/bitcore-lib.git",
+    "bitcore-lib": "git+ssh://git@github.com/timwhite47/bitcore-lib.git",
     "unorm": "^1.3.3"
   }
 }
